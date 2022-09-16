@@ -4,14 +4,12 @@ body {
   font-family: Arial, Helvetica, Sans-serrif;
   margin: 5% 5%;
 }
-
 .exp-header {
   text-transform: uppercase;
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
   background-color: orange
 }
-
 .skills-header {
   text-transform: uppercase;
   border-top: 1px solid #dddddd;
